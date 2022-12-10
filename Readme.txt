@@ -6,3 +6,5 @@ Used:
 - Output variable is the steering angle.
 -Trained with one track and used a different track for test purpose.
 - Applied a series of image processing techniques on the collected images.
+
+First iteration youtube link: https://www.youtube.com/watch?v=Cx0sykmelQY
