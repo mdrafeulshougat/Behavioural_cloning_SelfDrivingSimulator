@@ -8,3 +8,5 @@ Used:
 - Applied a series of image processing techniques on the collected images.
 
 First iteration youtube link: https://www.youtube.com/watch?v=Cx0sykmelQY
+
+The scripts should be run in googlecolab with GPU run time setting (unless pc has good gpu support)
